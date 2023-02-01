@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638108427661720746
-    m_Hash: 4006994777
+      ticks: 638108455554827124
+    m_Hash: 1009728603
   m_LockFileStatus:
     m_FilePath: F:/2022_CurrentProjects/001_Github/VD-Animation/VD-Animation/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638108428008212418
-    m_Hash: 3577669185
+      ticks: 638108455554867157
+    m_Hash: 2845870711
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,78 @@ m_LocalPackages:
 m_ProjectPath: F:/2022_CurrentProjects/001_Github/VD-Animation/VD-Animation/Packages
 m_EditorVersion: 2021.3.9f1 (ad3870b89536)
 m_ResolvedPackages:
+- packageId: com.soupday.cc3_unity_tools@https://github.com/soupday/cc_unity_tools_URP.git
+  testable: 0
+  isDirectDependency: 1
+  version: 1.4.3
+  source: 5
+  resolvedPath: F:\2022_CurrentProjects\001_Github\VD-Animation\VD-Animation\Library\PackageCache\com.soupday.cc3_unity_tools@48cfe6da3a
+  assetPath: Packages/com.soupday.cc3_unity_tools
+  name: com.soupday.cc3_unity_tools
+  displayName: CC/iC Unity Tools URP
+  author:
+    name: Victor Soupday
+    email: user@noreply.com
+    url: https://github.com/soupday
+  category: 
+  type: tool
+  description: Unity importer for Character Creator 3 & 4 and iClone 7 and 8.
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies:
+  - name: com.unity.render-pipelines.universal
+    version: 10.5.0
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.universal
+    version: 12.1.7
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.burst
+    version: 1.7.3
+  - name: com.unity.render-pipelines.core
+    version: 12.1.7
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 12.1.7
+  - name: com.unity.searcher
+    version: 4.9.1
+  keywords:
+  - Reallusion
+  - Character Creator
+  - iClone
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://soupday.github.io/cc_unity_tools/index.html
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.17.2
   testable: 0
   isDirectDependency: 1
